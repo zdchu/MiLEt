@@ -1,4 +1,4 @@
-Code for AAAI 2024 long paper **Meta-Reinforcement Learning via Exploratory Task Clustering**. The code is adapted from the [VariBAD](https://github.com/lmzintgraf/varibad) implementation. 
+Code for AAAI 2024 long paper [**Meta-Reinforcement Learning via Exploratory Task Clustering**](https://arxiv.org/abs/2302.07958). The code is partially adapted from the [VariBAD](https://github.com/lmzintgraf/varibad) implementation. 
 
 ## Usage
 Run the model with default settings, for example, on the Ant-Goal environment
